@@ -9,16 +9,16 @@ classifiers = [
 ]
  
 setup(
-  name='joshbasiccalculator',
+  name='demoproject',
   version='0.0.1',
-  description='A very basic calculator',
+  description='A demo project',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
-  author='Joshua Lowe',
-  author_email='josh@edublocks.org',
+  author='Ayan Khan',
+  author_email='programing.ninja0@gmail.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords='calculator', 
+  keywords='demo', 
   packages=find_packages(),
   install_requires=[''] 
 )
