@@ -1,1 +1,1 @@
-This is a very demo project to publish on pypi
+All files required to publish your first module on pypi
